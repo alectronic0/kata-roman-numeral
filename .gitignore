@@ -1,0 +1,14 @@
+
+\.gradle/
+
+\.idea/
+
+node_modules/
+
+\.nyc_output/
+
+coverage/
+
+*.lcov
+
+mochawesome-report/
